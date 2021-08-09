@@ -5,30 +5,8 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>SOUP|Eliminar Estudiante</title>
+<link rel="stylesheet" type="text/css" href="base.css">
 </head>
-<style>
-	body {
- 		background-image: url("/SOUP/Images/background.png");
-  		background-repeat: no-repeat;
-  		background-attachment: fixed; 
-  		background-size: cover;
-	}
-	.box {
-        margin: auto;
-  		font-size: 16px;
-		width: 23%;
-		text-align: center;
-	}
-	.button {
-		background-color: #9ee000;
-  		border: 2px solid #003A83;
-  		color: #003A83;
-		padding: 10px;
-  		font-size: 16px;
- 		margin: 10px 20px;
-		width: 39%;
-	}
-</style>
 <body>
 <a href="EstudianteIndex.html"><button type="button" style="width:90px" class="button">Regresar</button></a><br>
 	<div class="box" style="margin-top: 5px;">

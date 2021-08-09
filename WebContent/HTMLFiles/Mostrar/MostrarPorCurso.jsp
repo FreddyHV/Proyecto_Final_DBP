@@ -7,63 +7,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>SOUP|Lista de Estudiantes</title>
-<style>
-body {
-  background-image: url("/SOUP/Images/background.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed; 
-  background-size: cover;
-}
+<link rel="stylesheet" type="text/css" href="base.css">
 
-
-.box {
-    margin: auto;
-  	font-size: 16px;
-	width: 80%;
-	text-align: center;
-	color: white;
-}
-
-.ingrese {
-  font-size: 16px;
-  border: 1px solid black;
-  margin: 15px 0px;
-  width: 80%;
-  text-align: center;
-	
-}
-
-.button {
-	background-color: #9ee000;
-  	border: 2px solid #003A83;
-  	color: #003A83;
-	padding: 10px;
-  	font-size: 16px;
- 	margin: 20px 0px;
-	width: 19%;
-	
-	}
-	
-.button:hover {
-  background-color: #003A83;
-  color: #9ee000;
-}
-
-
-.fila
-{
- 	display: flex;
-  	justify-content: center;
-}
-
-.seleccion
-{
-  background-color: #9ee000;
-  text-align: center;
-  color: #003A83;
-}
-
-</style>
 
 </head>
 <body>
