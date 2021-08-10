@@ -30,3 +30,9 @@ funcionalidades:
 -Listar estudiantes de un curso
 
 -Listar cursos de un estudiante
+
+Colaboradores del Proyecto
+
+- Santiago Vilca Limachi
+- Freddy Humpiri Valdivia
+- Yamil Llanmpi Hancco
